@@ -28,7 +28,7 @@ DEEPGRAM_API_KEY=your_deepgram_api_key
 
 ## Local Development
 
-1. Clone the repository:
+Clone the repository:
 bash
 git clone https://github.com/yourusername/voice-task-manager.git
 
