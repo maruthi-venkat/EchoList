@@ -30,7 +30,7 @@ DEEPGRAM_API_KEY=your_deepgram_api_key
 
 Clone the repository:
 bash
-git clone https://github.com/yourusername/voice-task-manager.git
+git clone https://github.com/maruthi-venkat/EchoList.git
 
 cd EchoList
 
