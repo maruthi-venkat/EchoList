@@ -22,7 +22,9 @@ REACT_APP_API_URL=http://localhost:5000
 
 ### Server (.env)
 PORT=5000 
+
 MONGODB_URI=mongodb://localhost:27017/voice-tasks 
+
 DEEPGRAM_API_KEY=your_deepgram_api_key
 
 
