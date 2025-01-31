@@ -31,6 +31,7 @@ DEEPGRAM_API_KEY=your_deepgram_api_key
 1. Clone the repository:
 bash
 git clone https://github.com/yourusername/voice-task-manager.git
+
 cd EchoList
 
 # Install client dependencies
@@ -51,7 +52,9 @@ Access the application at http://localhost:3000
 
 # API Endpoints
 GET /api/tasks - Get all tasks
+
 POST /api/tasks - Create a new task
+
 DELETE /api/tasks/:id - Delete a task
 
 # Technology Stack
