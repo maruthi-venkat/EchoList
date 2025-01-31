@@ -36,30 +36,30 @@ git clone https://github.com/maruthi-venkat/EchoList.git
 
 cd EchoList
 
-# Install client dependencies
+## Install client dependencies
 cd client
 npm install
 
-# Install server dependencies
+## Install server dependencies
 cd ../server
 npm install
 
-# Start the client (in client directory)
+## Start the client (in client directory)
 npm start
 
-# Start the server (in server directory)
+## Start the server (in server directory)
 npm run dev
 
 Access the application at http://localhost:3000
 
-# API Endpoints
+## API Endpoints
 GET /api/tasks - Get all tasks
 
 POST /api/tasks - Create a new task
 
 DELETE /api/tasks/:id - Delete a task
 
-# Technology Stack
+## Technology Stack
 
 Frontend:
 React.js
@@ -78,5 +78,5 @@ Deployment:
 vercel(for frontend)
 render(for backend)
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
